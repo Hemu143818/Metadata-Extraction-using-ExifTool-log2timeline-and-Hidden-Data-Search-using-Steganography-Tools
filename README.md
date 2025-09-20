@@ -47,6 +47,8 @@ sudo apt install exiftool -y
 - **Extract metadata from a file:**
 ```bash
 exiftool image.jpg
+<img width="729" height="539" alt="image" src="https://github.com/user-attachments/assets/b8b0e29e-0c2a-4a54-b203-b105597e6f3c" />
+
 ```
 - **Batch process a folder:**
 ```bash
