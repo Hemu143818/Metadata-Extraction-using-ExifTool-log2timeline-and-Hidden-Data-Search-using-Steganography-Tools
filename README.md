@@ -37,6 +37,8 @@ Apply steganography detection tools like steghide, zsteg, or binwalk to uncover 
 
 ## OUTPUT:
 ### A. Using ExifTool – for file metadata
+<img width="656" height="605" alt="image" src="https://github.com/user-attachments/assets/bd860846-e881-44cb-b2c1-2b4e1242a423" />
+
 - **Install:**
 ```bash
 sudo apt update
@@ -58,6 +60,7 @@ exiftool -r /path/to/folder
 
 - ```-GPSLatitude -GPSLongitude: Extract GPS data```
 
+<img width="906" height="369" alt="image" src="https://github.com/user-attachments/assets/99878b2d-7018-4852-993e-4ab40a135c7d" />
 
 
 ### install log2timeline
@@ -87,8 +90,9 @@ sudo apt install binwalk -y
 binwalk suspicious.jpg
 ```
 ```bash
-binwalk /home/kali/Downloads/wallpaper.jpg
+binwalk /home/kali/Downloads/mohan_picture.jpg
 ```
+<img width="959" height="262" alt="image" src="https://github.com/user-attachments/assets/7e4c438f-7622-41ee-a4d6-20d2f0010804" />
 
 
 ## RESULT:
