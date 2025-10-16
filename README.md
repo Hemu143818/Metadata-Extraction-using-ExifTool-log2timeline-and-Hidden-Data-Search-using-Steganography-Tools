@@ -1,4 +1,8 @@
 # Metadata-Extraction-using-ExifTool-log2timeline-and-Hidden-Data-Search-using-Steganography-Tools
+```
+name: k hemanth yadav
+reg : 212224100033
+```
 ## AIM:
 To extract metadata, perform timeline analysis, and search for hidden data using forensic tools like ExifTool, log2timeline, and steganography detection tools.
 ## REQUIREMENTS
